@@ -2,7 +2,7 @@
 
 Welcome to my first end-to-end Machine Learning project — a **web application** that predicts **real estate price per unit area** based on various property features from the **Taiwan housing market** 📊.
 
-This project is part of my transition from data analysis to machine learning, inspired by Krish Naik Sir's course. I wanted to move beyond theory and apply what I learned in a practical, deployable way — and this is the result!
+This project is part of my transition from data analysis to machine learning. I wanted to move beyond theory and apply what I learned in a practical, deployable way — and this is the result!
 
 ---
 
