@@ -8,7 +8,7 @@ This project is part of my transition from data analysis to machine learning, in
 
 ## 🚀 Demo
 
-👉 [Click here to try the live app](https://your-streamlit-link.streamlit.app) *(replace with your Streamlit link)*  
+👉 [Click here to try the live app](https://codewithsayanjib-real-estate-valuation-prediction-app-53mvyl.streamlit.app/) *(replace with your Streamlit link)*  
 👉 [View the source code on GitHub](https://github.com/Codewithsayanjib/Real-estate-valuation-prediction)
 
 ---
